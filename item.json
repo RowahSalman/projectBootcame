@@ -1,0 +1,32 @@
+[
+    { 
+        "id":1,
+        "img":"(file:///C:/Users/Rowah/OneDrive/Desktop/Project%20Bootcamp/photo_2021-10-05_21-04-13.jpg )",  
+       "title": "دفتر ورق اسود" ,
+       "description": "غلاف كارتون , 28 ورقه ,مفيد للملاحظات والرسم" ,
+       "price":"3.000 د.ع"
+    },
+    {  
+        "id":2,
+        "img":"(file:///C:/Users/Rowah/OneDrive/Desktop/Project%20Bootcamp/photo_2021-10-07_23-20-21.jpg)",  
+       "title": "قلم فلامينكو" ,
+       "description": "قلم جاف 6 الوان" ,
+       "price":"2.000 د.ع"
+    },
+
+    { 
+        "id":3,
+        "img":"(file:///C:/Users/Rowah/OneDrive/Desktop/Project%20Bootcamp/photo_2021-10-05_21-04-06.jpg)",  
+       "title": "دفتر الوحوش الطيفين",
+       "description":"دفتر غلاف طري  , 80 ورقه" ,
+       "price":"3.500 د.ع" 
+    },
+    {
+        "id":4,
+        "img":"(file:///C:/Users/Rowah/OneDrive/Desktop/Project%20Bootcamp/photo_2021-10-08_00-57-22.jpg)",  
+       "title": "ستكي نوت كواكب",
+       "description":"اوراق ملاحظات لاصق ,تحتوي على 30 ورقه لاصفه" ,
+       "price":"1.000 د.ع"
+        
+    }
+]

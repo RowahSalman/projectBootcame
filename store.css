@@ -1,0 +1,44 @@
+  /* <!----x----------------- Main Site Section --------X-----------> */
+.site-title{
+    background: url("https://image.freepik.com/free-photo/stationery-arrangement-yellow-background-with-empty-notebook_23-2148513289.jpg");
+    background-size: cover;
+    height: 110vh;
+    display: flex;
+     background-position: center;
+    justify-content: center;
+}
+main.site-title.h1,h2{
+    font-style: Tajawal;
+}
+
+.item{
+  background: url("https://www.papersource.com/media/wysiwyg/hero/2021/2021-10-hero-calendars.jpg ");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+/* 
+.carousel-3d-slide {
+    padding: 20px;
+  }
+   */
+
+
+
+/* /* <!--------------------- Main Site Section -------------------> */
+.swiper-container {
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.swiper-slide {
+	background-position: center;
+	background-size: cover;
+	width: 300px;
+	height: 300px;
+}
+
+/* /* <!----x----------------- Main Site Section --------X-----------> */
